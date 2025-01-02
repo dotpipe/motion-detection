@@ -77,7 +77,7 @@ The system employs a unique three-tier merging strategy:
 - Minimum object size: 500 pixels
 - Color tolerance: 30 units (RGB space)
 - Distance threshold: 50 pixels
-- SSIM threshold: 0.45
+- SSIM threshold: 0.14
 - Frame resolution: 640x480 (configurable)
 
 ## Advantages Over Traditional Systems
